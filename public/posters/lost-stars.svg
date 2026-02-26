@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-label="Lost Stars poster">
+  <defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+  <rect width="800" height="1200" fill="url(#a)"/>
+  <circle cx="640" cy="180" r="70" fill="#c4b5fd"/>
+  <text x="60" y="980" fill="#f5f3ff" font-size="76" font-family="Arial" font-weight="700">LOST STARS</text>
+</svg>

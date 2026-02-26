@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-label="Embers of Aurora poster">
+  <defs><linearGradient id="c" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#78350f"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="800" height="1200" fill="url(#c)"/>
+  <path d="M120 860 C260 620, 540 620, 680 860" stroke="#f59e0b" stroke-width="12" fill="none"/>
+  <text x="44" y="980" fill="#fde68a" font-size="65" font-family="Arial" font-weight="700">EMBERS OF AURORA</text>
+</svg>

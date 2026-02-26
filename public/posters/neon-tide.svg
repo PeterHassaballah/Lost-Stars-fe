@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-label="Neon Tide poster">
+  <defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+  <rect width="800" height="1200" fill="url(#b)"/>
+  <rect x="110" y="160" width="580" height="740" fill="none" stroke="#2dd4bf" stroke-width="8"/>
+  <text x="80" y="980" fill="#99f6e4" font-size="74" font-family="Arial" font-weight="700">NEON TIDE</text>
+</svg>
